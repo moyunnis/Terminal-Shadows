@@ -16,7 +16,7 @@
 Linux / macOS:
 
 ```bash
-git clone https://github.com/moyunni/Terminal-Shadows.git
+git clone https://codeberg.org/moyunni/Terminal-Shadows.git
 cd Terminal-Shadows
 ./install.sh
 ./run_game.sh
@@ -102,7 +102,7 @@ python scripts/validate_chapters.py
 
 ## Зеркала
 
-- GitHub: https://github.com/moyunni/Terminal-Shadows
+- MansionNET: https://git.inthemansion.com/moyunni/Terminal-Shadows
 - GitVerse: https://gitverse.ru/chinchilla/Terminal-Shadows
 - Codeberg: https://codeberg.org/moyunni/Terminal-Shadows
 
