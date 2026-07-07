@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Local game data (saves live in ~/.terminal_shadows)
+temp_update/
+*.dat
+
+# Editors / OS / tools
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
