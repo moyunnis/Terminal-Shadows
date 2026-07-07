@@ -7,7 +7,7 @@ from datetime import datetime
 
 class SimpleUpdater:
     def __init__(self):
-        self.repo_url = "https://github.com/moyunni/Terminal-Shadows.git"
+        self.repo_url = "https://codeberg.org/moyunni/Terminal-Shadows.git"
         self.game_dir = os.path.dirname(os.path.abspath(__file__))
         self.data_dir = os.path.expanduser("~/.terminal_shadows")
         self.backup_dir = os.path.join(self.data_dir, "backups")
