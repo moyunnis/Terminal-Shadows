@@ -16,7 +16,7 @@
 Linux / macOS:
 
 ```bash
-git clone https://github.com/moyunnis/Terminal-Shadows.git
+git clone https://github.com/zoyuki/Terminal-Shadows.git
 cd Terminal-Shadows
 ./install.sh
 ./run_game.sh
