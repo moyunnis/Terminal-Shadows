@@ -8,7 +8,6 @@ import json
 import re
 from datetime import datetime
 
-# На Windows консоль по умолчанию не в UTF-8 — кириллица и рамки ломаются.
 for stream in (sys.stdout, sys.stdin):
     try:
         stream.reconfigure(encoding='utf-8')
