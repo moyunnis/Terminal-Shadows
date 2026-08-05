@@ -102,8 +102,8 @@ python scripts/validate_chapters.py
 
 ## Зеркала
 
-- MansionNET: https://git.inthemansion.com/moyunni/Terminal-Shadows
-- GitVerse: https://gitverse.ru/chinchilla/Terminal-Shadows
+- MansionNET: https://git.inthemansion.com/zoyuki/Terminal-Shadows
+- Github: https://github.com/zoyuki/Terminal-Shadows
 
 ## Лицензия
 
